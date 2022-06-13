@@ -48,7 +48,7 @@ public class main {
 
         System.out.println("1-ingresar una persona");
         System.out.println("2-cambiar estado civil de una persona");
-        System.out.println("3-matriculacion de un estudiantea un nuevo curso ");
+        System.out.println("3-matriculacion de un estudiante a un nuevo curso ");
         System.out.println("4-cambio de departamento de un profesor");
         System.out.println("5-translado de seccion del personal de servicio");
         System.out.println("0-Salir");
