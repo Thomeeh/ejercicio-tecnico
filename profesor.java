@@ -28,7 +28,11 @@ public class profesor extends empleados {
     }
   
 
-    
+   public void mostrarCambio(){
+       
+        System.out.println("departamento="+departamento);
+        System.out.println(getNombre());
+     } 
 
     
     
