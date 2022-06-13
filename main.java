@@ -197,8 +197,11 @@ public class main {
                             lisProfesor.get(i).setDepartamento(depto);
                         }
                     }
-
-                    lisProfesor.add(prf);
+                        
+                     prf.mostrarCambio();
+                     System.out.println("cambio efectuado");
+                    
+                     lisProfesor.add(prf);
                     break;
                 case 5:
                     System.out.println("ingresar dni del personal de servicio");
