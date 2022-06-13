@@ -112,7 +112,7 @@ public class main {
                             switch (op6) {
                                 case 1:
 
-                                    System.out.println("ingresar el incorporacion:");
+                                    System.out.println("ingresar la incorporacion a a facultad:");
                                     entrada = scan.nextInt();
                                     System.out.println("ingresar el despacho:");
                                     despacho = scan.nextInt();
