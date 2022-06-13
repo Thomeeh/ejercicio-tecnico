@@ -159,6 +159,7 @@ public class main {
                     estadoCivil = estado.equals("p");
                     pr.setEstadoCivil(estadoCivil);
                     pr.mostrarEstado();
+                   pr = new persona(nombre, apellido, dni, edad, telefono, estadoCivil);
                     break;
 
                 case 3:
